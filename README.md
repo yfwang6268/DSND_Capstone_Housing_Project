@@ -1,1 +1,1 @@
-DSND_Capstone_Housing_Project
+DSND_CapStone_HousePricingProject
