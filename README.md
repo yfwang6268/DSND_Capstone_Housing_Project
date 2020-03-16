@@ -34,6 +34,9 @@ Assumption: Python and Jupyter notebook are installed
 * Save 'train.csv' and 'test.csv' into the local enviornment
 * open 'Housing_Project.ipynb' and run the file in above same enviornment
 
+The blog is posted on medium with below link:
+https://medium.com/@yfwang6268/house-prices-prediction-an-implementation-of-advance-regression-techniques-to-predict-housing-8fe099406ead
+
 ## Acknowledge:
 
 The data is downloading from Kaggle with the link as below: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
